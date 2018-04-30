@@ -287,7 +287,15 @@ A certain amount of (domain- or business-specific) analysis is necessary to crea
         <td>
             The MalShare Project is a public malware repository that provides researchers free access to samples.
         </td>
-    </tr>    
+    </tr> 
+    <tr>
+        <td>
+            <a href="https://www.maltiverse.com/" target="_blank">Maltiverse</a>
+        </td>
+        <td>
+            A full text search engine for IoC that aggregates many feeds. It permits bulk IoC queries.
+        </td>
+    </tr>
     <tr>
         <td>
             <a href="https://www.malwaredomainlist.com/" target="_blank">Malware Domain List</a>
